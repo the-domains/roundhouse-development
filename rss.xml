@@ -4,7 +4,7 @@
         <description><![CDATA[Roundhouse Development]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 04:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 04:46:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/roundhouse-development/about/index.html</link>
             <guid isPermaLink="false">25abadd4-353a-40ac-ad22-b2d3938ab574</guid>
             <pubDate>Fri, 29 Jan 2016 04:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<article><h1>Portfolio</h1><p>Bloccit (Reddit Replica) - Git/Github + Ruby + Rails </p></article>]]></description>
+            <link>https://thegrid.ai/roundhouse-development/portfolio/index.html</link>
+            <guid isPermaLink="false">7b94d31d-77fc-486c-8da9-7aff693e2d0f</guid>
+            <pubDate>Fri, 29 Jan 2016 04:46:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Services]]></title>
