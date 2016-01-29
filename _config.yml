@@ -1,7 +1,7 @@
 name: Roundhouse Development
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.47388
+typography_spectrum: 0.50603
 title: 'Roundhouse Development - Natalie Kueneman, Web Developer'
 cta:
   domain: null
@@ -18,11 +18,11 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#808080'
-    - '#04586c'
-    - '#6c0478'
-    - '#f4f4f4'
-  brandStrength: 0.1875
+    - '#b80000'
+    - '#007800'
+    - '#c6ff1a'
+    - '#f600e3'
+  brandStrength: 0.25
   lightness: 0.6350437682121992
   saturation: 0.6875
   rhythmicContrast: 0.4559261747635901
