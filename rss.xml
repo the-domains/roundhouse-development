@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Roundhouse Development]]></title>
-        <description><![CDATA[Roundhouse Development]]></description>
+        <title><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></title>
+        <description><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 04:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 05:01:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/roundhouse-development/portfolio/index.html</link>
             <guid isPermaLink="false">7b94d31d-77fc-486c-8da9-7aff693e2d0f</guid>
             <pubDate>Fri, 29 Jan 2016 04:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><p>Roundhouse Development offers custom web design and development.</p></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/services/index.html</link>
-            <guid isPermaLink="false">3c94ae2a-7037-4cbf-a566-d7396fe546c1</guid>
-            <pubDate>Fri, 29 Jan 2016 04:45:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
