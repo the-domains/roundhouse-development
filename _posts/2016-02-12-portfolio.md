@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T04:33:57.099Z'
-dateModified: '2016-02-12T04:33:49.543Z'
+datePublished: '2016-02-12T04:57:20.152Z'
+dateModified: '2016-02-12T04:57:14.826Z'
 title: Portfolio
 author: []
+sourcePath: _posts/2016-02-12-portfolio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-portfolio.md
-published: true
 url: portfolio/index.html
 _type: Article
 
