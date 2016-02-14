@@ -4,21 +4,21 @@
         <description><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 05:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 05:07:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Roundhouse Development was started by Natalie Kueneman when she moved from San Francisco, CA to Ketchum, ID in 2014.  Natalie's career experience has been in both artistic and creative fields including media makeup and hair, professional instruction, forensic DNA analysis, and full-stack web development.</p></article>]]></description>
+            <link>https://thegrid.ai/roundhouse-development/about/index.html</link>
+            <guid isPermaLink="false">25abadd4-353a-40ac-ad22-b2d3938ab574</guid>
+            <pubDate>Sun, 14 Feb 2016 05:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portfolio]]></title>
             <description><![CDATA[<article><h1>Portfolio</h1><p>Bloccit + ILoveTaB + KetchumBeauty + Blocitoff</p></article>]]></description>
             <link>https://thegrid.ai/roundhouse-development/portfolio/index.html</link>
             <guid isPermaLink="false">a3aaaea4-16fd-4643-924d-bd4c3a19b53d</guid>
             <pubDate>Fri, 12 Feb 2016 04:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Roundhouse Development was started by Natalie Kueneman when she moved from San Francisco, CA to Ketchum, ID in 2014.  Natalie's career experience has been in both artistic and creative fields including media makeup and hair, professional instruction, forensic DNA analysis, and full-stack web development.</p></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/about/index.html</link>
-            <guid isPermaLink="false">25abadd4-353a-40ac-ad22-b2d3938ab574</guid>
-            <pubDate>Sun, 14 Feb 2016 05:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KetchumBeauty.com]]></title>
