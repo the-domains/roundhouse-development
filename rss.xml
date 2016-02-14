@@ -4,7 +4,7 @@
         <description><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 04:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 04:59:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portfolio]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/roundhouse-development/about/index.html</link>
             <guid isPermaLink="false">25abadd4-353a-40ac-ad22-b2d3938ab574</guid>
             <pubDate>Fri, 12 Feb 2016 04:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KetchumBeauty.com]]></title>
+            <description><![CDATA[<article><h1>KetchumBeauty.com</h1><p>Ketchum Beauty (personal site) - Strikingly + HTML + CSS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1df5baa3729b9cee9a6c36afa359dd9c180ca4.png"></article>]]></description>
+            <link>https://thegrid.ai/roundhouse-development/ketchumbeautycom/index.html</link>
+            <guid isPermaLink="false">f21614b3-458d-4a98-a26b-72fd4c86b609</guid>
+            <pubDate>Sun, 14 Feb 2016 04:58:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
