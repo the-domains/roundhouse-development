@@ -4,8 +4,15 @@
         <description><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 04:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 04:40:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Contact Natalie Kueneman at Roundhouse Development in Ketchum, Idaho:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a38fac72df64c966422aa78e6bfd2fbd00e4e131.png"></article>]]></description>
+            <link>https://thegrid.ai/roundhouse-development/contact/index.html</link>
+            <guid isPermaLink="false">c2229d4f-b059-4916-8973-1f1d9c5d4a67</guid>
+            <pubDate>Mon, 29 Feb 2016 04:39:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><p>Roundhouse Development offers custom web design and development.</p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/roundhouse-development/portfolio/index.html</link>
             <guid isPermaLink="false">a3aaaea4-16fd-4643-924d-bd4c3a19b53d</guid>
             <pubDate>Mon, 29 Feb 2016 04:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0617a2f-dec7-49a7-83ed-2cac190ab23b.png"></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/contact/index.html</link>
-            <guid isPermaLink="false">c2229d4f-b059-4916-8973-1f1d9c5d4a67</guid>
-            <pubDate>Mon, 29 Feb 2016 04:37:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KetchumBeauty.com]]></title>
