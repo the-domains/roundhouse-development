@@ -1,14 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-02T02:20:59.003Z'
-dateModified: '2016-03-02T02:20:39.032Z'
-title: Jottly landing page
+description: Jottly (landing page only) + CSS + HTML + Skeleton
+datePublished: '2017-04-13T23:42:52.982Z'
+dateModified: '2016-03-02T02:22:45.503Z'
+title: ''
 author: []
 authors: []
 publisher:
@@ -16,8 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
+datePublishedOriginal: '2016-03-02T02:20:58.774Z'
+via: {}
 sourcePath: _posts/2016-03-02-jottly-landing-page.md
-published: true
 url: jottly-landing-page/index.html
 _type: Article
 
