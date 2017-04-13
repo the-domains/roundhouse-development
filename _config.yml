@@ -1,20 +1,20 @@
-typography_spectrum: 0.31714
+typography_spectrum: 0.36423807271359726
 color:
   brandColors:
-    - '#d5d5d5'
-    - '#00999e'
-    - '#f5907c'
-    - '#022648'
-    - '#91a0ae'
-  brandStrength: 1
-  lightness: 0.875
-  saturation: 0.125
-  rhythmicContrast: 0
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.6440629911674464
+  lightness: 0.8789948995080361
+  saturation: 0.08838459255219908
+  rhythmicContrast: 0.4045994412900862
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.74565
+layout_spectrum: 0.3393554243777353
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,22 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Portfolio
+    id: a3aaaea4-16fd-4643-924d-bd4c3a19b53d
+    type: content
 favicon: null
-title: 'Roundhouse Development - Natalie Kueneman, Web Developer'
-purpose: []
+title: Roundhouse Development
+content: []
+description: Natalie Kueneman - Web Development
+purpose:
+  - type: contact
+    url: 'tel:4154253244'
+    label: Call
+  - type: contact
+    url: 'mailto:info@roundhousedevelopment.com'
+    label: Email
+github: true
+author:
+  name: Natalie Kueneman
+  email: info@roundhousedevelopment.com
