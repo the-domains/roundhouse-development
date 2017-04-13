@@ -1,70 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></title>
-        <description><![CDATA[Roundhouse Development - Natalie Kueneman, Web Developer]]></description>
+        <title><![CDATA[Roundhouse Development]]></title>
+        <description><![CDATA[Roundhouse Development]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 02:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2017 23:42:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>Contact Natalie Kueneman at Roundhouse Development in Ketchum, Idaho:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a38fac72df64c966422aa78e6bfd2fbd00e4e131.png"></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/contact/index.html</link>
-            <guid isPermaLink="false">c2229d4f-b059-4916-8973-1f1d9c5d4a67</guid>
-            <pubDate>Mon, 29 Feb 2016 04:39:53 GMT</pubDate>
-        </item>
+        <pubDate>Thu, 13 Apr 2017 23:42:53 GMT</pubDate>
         <item>
             <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><p>Roundhouse Development offers custom web design and development.</p></article>]]></description>
+            <description><![CDATA[<p><strong>Front-End &amp; Full Stack Web Development</strong></p>,<ul><li>Client Consultation</li><li>Procurement of domain name and hosting</li><li>Custom email accounts</li><li>Custom or template based</li><li>Logo and site design</li><li>WordPress Content Managment System</li><li>Front End Development - HTML + CSS + Javascript + DOM Scripting + jQuery</li><li>Rails Development - Web Application Architecture + Git/Github + Rails + Ruby + Bootstrap</li></ul>]]></description>
             <link>https://thegrid.ai/roundhouse-development/services/index.html</link>
             <guid isPermaLink="false">b5fc9ecc-a04d-4501-81fe-d938569ef34c</guid>
             <pubDate>Sun, 14 Feb 2016 05:07:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Roundhouse Development was started by Natalie Kueneman when she moved from San Francisco, CA to Ketchum, ID in 2014.  Natalie's career experience has been in both artistic and creative fields including media makeup and hair, professional instruction, forensic DNA analysis, and full-stack web development.</p></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/about/index.html</link>
-            <guid isPermaLink="false">25abadd4-353a-40ac-ad22-b2d3938ab574</guid>
-            <pubDate>Sun, 14 Feb 2016 05:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portfolio]]></title>
-            <description><![CDATA[<article><h1>Portfolio</h1><p>Bloccit</p></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/portfolio/index.html</link>
-            <guid isPermaLink="false">a3aaaea4-16fd-4643-924d-bd4c3a19b53d</guid>
-            <pubDate>Wed, 02 Mar 2016 02:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jottly landing page]]></title>
-            <description><![CDATA[<article><h1>Jottly landing page</h1><p>Jottly (landing page only) + CSS + HTML + Skeleton</p></article>]]></description>
+            <title><![CDATA[Jottly - landing page]]></title>
+            <description><![CDATA[<p>Jottly (landing page only) + CSS + HTML + Skeleton</p>]]></description>
             <link>https://thegrid.ai/roundhouse-development/jottly-landing-page/index.html</link>
             <guid isPermaLink="false">4104c8c8-abfd-4ab2-92fd-479b1b24d0bf</guid>
-            <pubDate>Wed, 02 Mar 2016 02:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KetchumBeauty.com]]></title>
-            <description><![CDATA[<article><h1>KetchumBeauty.com</h1><p>Ketchum Beauty (personal site) - Strikingly + HTML + CSS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c1857cfbf283b5880fedaa3ecaa942d708c8cba.png"></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/ketchumbeautycom/index.html</link>
-            <guid isPermaLink="false">f21614b3-458d-4a98-a26b-72fd4c86b609</guid>
-            <pubDate>Sun, 14 Feb 2016 04:58:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloccit]]></title>
-            <description><![CDATA[<article><h1>Bloccit</h1><p>Bloccit (Reddit replica) - Git/Github + Ruby + Rails + Bootstrap</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc172770a55b8c4e8f5fa17c236689b958baceb2.png"></article>]]></description>
-            <link>https://thegrid.ai/roundhouse-development/a13bf513-ea9e-48cd-8bf3-6a89ef0afa9c/index.html</link>
-            <guid isPermaLink="false">a13bf513-ea9e-48cd-8bf3-6a89ef0afa9c</guid>
-            <pubDate>Sun, 14 Feb 2016 04:59:37 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 02:20:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ILoveTaB.com]]></title>
-            <description><![CDATA[<article><h1>ILoveTaB.com</h1><p>ILoveTaB - WordPress + CSS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7de74d1872187a162f24737346d72d6c129273f9.png"></article>]]></description>
+            <description><![CDATA[<p><a href="http://www.ilovetab.com/">ILoveTaB</a> - WordPress + CSS</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de310c3c-153e-49e0-92ce-c1424c72983d.png">]]></description>
             <link>https://thegrid.ai/roundhouse-development/f082e18e-44b4-4a25-a248-e8258f47f6c7/index.html</link>
             <guid isPermaLink="false">f082e18e-44b4-4a25-a248-e8258f47f6c7</guid>
             <pubDate>Sun, 14 Feb 2016 05:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bloccit]]></title>
+            <description><![CDATA[<p><a href="https://tabalie-bloccit.herokuapp.com/">Bloccit</a> (Reddit replica) - Git/Github + Ruby + Rails + Bootstrap</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf54e6ae-d3b6-4469-b6cd-c82812ff83db.png">]]></description>
+            <link>https://thegrid.ai/roundhouse-development/a13bf513-ea9e-48cd-8bf3-6a89ef0afa9c/index.html</link>
+            <guid isPermaLink="false">a13bf513-ea9e-48cd-8bf3-6a89ef0afa9c</guid>
+            <pubDate>Sun, 14 Feb 2016 04:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KetchumBeauty.com]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4349162c-7768-4d1b-9476-e6215ca7bf3a.png">,<p><a href="http://www.ketchumbeauty.com/">Ketchum Beauty</a> (personal site) - Strikingly + HTML + CSS</p>]]></description>
+            <link>https://thegrid.ai/roundhouse-development/ketchumbeautycom/index.html</link>
+            <guid isPermaLink="false">f21614b3-458d-4a98-a26b-72fd4c86b609</guid>
+            <pubDate>Sun, 14 Feb 2016 04:58:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blocitoff]]></title>
-            <description><![CDATA[<article><h1>Blocitoff</h1><p>Blocitoff (a self-destructing to-do list) - Git/Github + Ruby + Rails + Bootstrap</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7185df2589d166093cdb18ac496947c81b6e24ce.png"></article>]]></description>
+            <description><![CDATA[<p><a href="http://tabalie-blocitoff.herokuapp.com/">Blocitoff</a> (a self-destructing to-do list) - Git/Github + Ruby + Rails + Bootstrap</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/227766d2-26ab-4e37-9b5b-04126110a6ea.png">]]></description>
             <link>https://thegrid.ai/roundhouse-development/db54e882-9751-48ee-990a-7319c57a644f/index.html</link>
             <guid isPermaLink="false">db54e882-9751-48ee-990a-7319c57a644f</guid>
             <pubDate>Sun, 14 Feb 2016 04:58:06 GMT</pubDate>
