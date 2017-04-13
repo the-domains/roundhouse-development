@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Portfolio
-    id: a3aaaea4-16fd-4643-924d-bd4c3a19b53d
-    type: content
 favicon: null
 title: Roundhouse Development
 content: []
