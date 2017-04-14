@@ -10,6 +10,7 @@ color:
   lightness: 0.8789948995080361
   saturation: 0.08838459255219908
   rhythmicContrast: 0.4045994412900862
+github: true
 opengraph:
   image: null
   type: null
@@ -19,11 +20,19 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Natalie Kueneman
+  email: info@roundhousedevelopment.com
+  url: 'https://thegrid.ai/roundhouse-development/'
 name: Roundhouse Development
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Services
+    id: b5fc9ecc-a04d-4501-81fe-d938569ef34c
+    type: content
 favicon: null
 title: Roundhouse Development
 content: []
@@ -35,8 +44,3 @@ purpose:
   - type: contact
     url: 'mailto:info@roundhousedevelopment.com'
     label: Email
-github: true
-author:
-  name: Natalie Kueneman
-  email: info@roundhousedevelopment.com
-  url: 'https://thegrid.ai/roundhouse-development/'
