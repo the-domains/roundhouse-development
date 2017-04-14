@@ -4,9 +4,16 @@
         <description><![CDATA[Roundhouse Development]]></description>
         <link>https://thegrid.ai/roundhouse-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 14 Apr 2017 00:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2017 00:01:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roundhouse-development/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Apr 2017 00:01:37 GMT</pubDate>
+        <pubDate>Fri, 14 Apr 2017 00:01:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<p><strong>Portfolio</strong></p>,<p><a href="https://thegrid.ai/roundhouse-development/a13bf513-ea9e-48cd-8bf3-6a89ef0afa9c/">Bloccit</a></p>]]></description>
+            <link>https://thegrid.ai/roundhouse-development/portfolio/index.html</link>
+            <guid isPermaLink="false">a3aaaea4-16fd-4643-924d-bd4c3a19b53d</guid>
+            <pubDate>Fri, 14 Apr 2017 00:01:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<p><strong>Front-End &amp; Full Stack Web Development</strong></p>,<ul><li>Client Consultation</li><li>Procurement of domain name and hosting</li><li>Custom email accounts</li><li>Custom or template based</li><li>Logo and site design</li><li>WordPress Content Managment System</li><li>Front End Development - HTML + CSS + Javascript + DOM Scripting + jQuery</li><li>Rails Development - Web Application Architecture + Git/Github + Rails + Ruby + Bootstrap</li></ul>]]></description>
