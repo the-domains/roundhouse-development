@@ -1,27 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-02T02:23:11.665Z'
-dateModified: '2016-03-02T02:23:05.369Z'
-title: Portfolio
+description: Portfolio
+datePublished: '2017-04-14T00:01:45.554Z'
+dateModified: '2017-04-13T23:13:33.093Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-12-portfolio.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: true
+datePublishedOriginal: '2017-04-14T00:01:45.554Z'
 url: portfolio/index.html
 _type: Article
 
 ---
+**Portfolio**
+
+---
+
 [Bloccit][0]
 
 [ILoveTaB][1]
